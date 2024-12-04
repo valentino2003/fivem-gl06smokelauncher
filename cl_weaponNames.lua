@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_PD_SMOKEGL", "PD_SMOKEGL")
